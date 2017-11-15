@@ -1,0 +1,10 @@
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoEntidades\bin\Debug\BancoEntidades.dll
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoEntidades\bin\Debug\BancoEntidades.pdb
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoEntidades\bin\Debug\BancoEntidades.xml
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoEntidades\obj\Debug\BancoEntidades.vbprojResolveAssemblyReference.cache
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoEntidades\obj\Debug\BancoEntidades.Resources.resources
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoEntidades\obj\Debug\BancoEntidades.vbproj.GenerateResource.Cache
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoEntidades\obj\Debug\BancoEntidades.vbproj.CoreCompileInputs.cache
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoEntidades\obj\Debug\BancoEntidades.dll
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoEntidades\obj\Debug\BancoEntidades.xml
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoEntidades\obj\Debug\BancoEntidades.pdb

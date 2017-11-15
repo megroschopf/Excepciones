@@ -1,0 +1,14 @@
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoTest\bin\Debug\BancoTest.exe.config
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoTest\bin\Debug\BancoTest.exe
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoTest\bin\Debug\BancoTest.pdb
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoTest\bin\Debug\BancoTest.xml
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoTest\bin\Debug\BancoEntidades.dll
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoTest\bin\Debug\BancoEntidades.pdb
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoTest\bin\Debug\BancoEntidades.xml
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoTest\obj\Debug\BancoTest.vbprojResolveAssemblyReference.cache
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoTest\obj\Debug\BancoTest.Resources.resources
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoTest\obj\Debug\BancoTest.vbproj.GenerateResource.Cache
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoTest\obj\Debug\BancoTest.vbproj.CoreCompileInputs.cache
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoTest\obj\Debug\BancoTest.exe
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoTest\obj\Debug\BancoTest.xml
+C:\Users\Joker\Source\Repos\PG2.03.Banco\BancoTest\obj\Debug\BancoTest.pdb
